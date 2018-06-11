@@ -1,3 +1,5 @@
 <?php
-	echo "olá GIT";
+	echo "olï¿½ GIT";
+	
+seu lixo do crlh
 ?>
