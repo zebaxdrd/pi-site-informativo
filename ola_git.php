@@ -1,3 +1,4 @@
 <?php
-	echo "olá GIT";
+	echo "olï¿½ GIT";
 ?>
+pnc otario
